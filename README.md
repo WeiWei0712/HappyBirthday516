@@ -1,4 +1,4 @@
-# 生日快乐
+# 生日快樂
 
 <p>
 <img src="https://img.shields.io/github/stars/abandon888/HappyBirthday" alt="stars" />
